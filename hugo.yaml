@@ -1,0 +1,73 @@
+# Hugo configuration file
+title: Vinciane Duperthuy
+
+# Site language
+languageCode: en-us
+#defaultContentLanguage: en
+#languages:
+#  en:
+#    languageName: English
+#    weight: 1
+#    title: Vinciane Duperthuy
+#  fr:
+#    languageName: Français
+#    languageCode: fr-FR
+#    weight: 2
+#    title: Vinciane Duperthuy
+
+# import hextra as module
+module:
+  imports:
+  - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Resume
+      pageRef: /resume
+      weight: 1
+    - name: Samples
+      pageRef: /samples
+      weight: 2
+    - name: GitHub
+      weight: 3
+      url: "https://github.com/vinnciane/"
+      params:
+        icon: github
+    - name: Linkedin
+      weight: 4
+      url: "https://www.linkedin.com/in/vduperthuy/"
+      params:
+        icon: linkedin
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/fox-light.svg
+      dark: images/fox-dark.svg
+      link: /
+      width: 50
+      height: 50
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: true
+
+  editURL:
+    enable: false
+    base: "https://github.com/vinnciane/writing-samples/edit/main/content"
+
+  services:
+    googleAnalytics:
+      ID: G-MEASUREMENT_ID
