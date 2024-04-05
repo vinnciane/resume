@@ -6,3 +6,6 @@ weight: 100
 
 
 About these writing samples
+
+Samples of technical writing work
+

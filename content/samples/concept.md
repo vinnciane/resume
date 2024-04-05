@@ -1,6 +1,6 @@
 ---
 title: Writing sample for a concept
-linktitle: Concepts
+linktitle: Concept
 type: docs
 weight: 200
 ---
@@ -24,36 +24,39 @@ DROPS WAP is stopped by a macro-command after ending application activity. The m
 
 ### DROPS WAP in action
 
-Setup up the solution
-Activate the use of DROPS WAP with the ARCAD distribution process on the development site (Setup on the Development site) and the production (target) site (Setup on the Production site).
+*Setup up the solution*  
+
+* Activate the use of DROPS WAP with the ARCAD distribution process on the development site (Setup on the Development site) and the production (target) site (Setup on the Production site).
+
+* Configure the DROPS WAP Web Studio to work with your ARCAD server (Source connectors).
 
 
-Configure the DROPS WAP Web Studio to work with your ARCAD server (Source connectors).
+*Analyze your files*
+
+* The first general consideration when using DROPS WAP is to make sure you know what files to include in the process. Analyze your application and decide what files to include.
 
 
-Analyze your files
-The first general consideration when using DROPS WAP is to make sure you know what files to include in the process. Analyze your application and decide what files to include.
+*Launch DROPS WAP with ARCAD macro-commands*  
+
+* Run the DISTRIB macro-command to start the distribution of your application release (Distributing with macros).
+
+* Edit and validate the list of files to be managed with DROPS WAP (Edit the list of files (LSTWAP)) when the macro-command displays this list.
+
+* Ensure the process of DROPS WAP starts (Montoring DWBASE and DWSTRJRNE​ jobs launched to batch).
 
 
-Launch DROPS WAP with ARCAD macro-commands
-Run the DISTRIB macro-command to start the distribution of your application release (Distributing with macros).
+*Monitor progress with the DROPS WAP Web Studio*  
+
+* Monitor the progress of the replication and the synchronization on the DROPS WAP Web Studio (Monitoring file replication).
+
+* Wait until all files are copied and synchronized with journals before stopping the live application environment where the new release will be installed. DROPS WAP keeps the file data synchronized until you stop it.
 
 
-Edit and validate the list of files to be managed with DROPS WAP (Edit the list of files (LSTWAP)) when the macro-command displays this list.
+*Transfer to production*  
+
+* The Transfer to production is the end of the process, when your data is ready to be deployed along with the rest of the release. When you want to end the production application and to move the new release into production, run the RCVNTWA2 macro-command ending the DROPS WAP process.
 
 
-Ensure the process of DROPS WAP starts (Montoring DWBASE and DWSTRJRNE​ jobs launched to batch).
-
-
-Monitor progress with the DROPS WAP Web Studio
-Monitor the progress of the replication and the synchronization on the DROPS WAP Web Studio (Monitoring file replication).
-
-
-Wait until all files are copied and synchronized with journals before stopping the live application environment where the new release will be installed. DROPS WAP keeps the file data synchronized until you stop it.
-
-
-Transfer to production
-The Transfer to production is the end of the process, when your data is ready to be deployed along with the rest of the release. When you want to end the production application and to move the new release into production, run the RCVNTWA2 macro-command ending the DROPS WAP process.
 
 ## About this sample  
 

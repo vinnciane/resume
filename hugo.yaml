@@ -54,15 +54,15 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/fox-light.svg
-      dark: images/fox-dark.svg
+      path: images/user-light.svg
+      dark: images/user-dark.svg
       link: /
       width: 50
       height: 50
 
   footer:
-    displayCopyright: false
-    displayPoweredBy: true
+    displayCopyright: true
+    displayPoweredBy: false
 
   editURL:
     enable: false
