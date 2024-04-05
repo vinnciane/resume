@@ -5,11 +5,6 @@ weight: 100
 
 Annecy, France
 
-
-Languages
-French – Native
-English - Advanced
-
 Experienced technical writer, managing technical content and publishing technologies.  
 * Project management, database management, documentation software  
 * Technical writing, information architecture, communication  
@@ -18,7 +13,7 @@ Experienced technical writer, managing technical content and publishing technolo
 
 
 {{< cards >}}
-  {{< card link="education" title="Education" icon="academic-cap" subtitle="Academic stuff.">}}
-  {{< card link="experience" title="Experience" icon="briefcase" subtitle="Professionnal experience.">}}
-  {{< card link="skills" title="Skills" icon="beaker" subtitle="Skills." >}}
+  {{< card link="education" title="Education" icon="academic-cap" subtitle="About my academical course.">}}
+  {{< card link="experience" title="Experience" icon="briefcase" subtitle="About my professionnal experience.">}}
+  {{< card link="skills" title="Skills" icon="beaker" subtitle="About my skills and competencies." >}}
 {{< /cards >}}

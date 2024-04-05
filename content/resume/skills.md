@@ -24,3 +24,7 @@ Madcap FLare, Lingo
 ### Soft Skills
 
 Empathy, communication, interpersonal skills, efficiency, teamwork
+
+### Languages
+French – Native
+English - Advanced
