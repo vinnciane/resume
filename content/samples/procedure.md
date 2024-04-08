@@ -69,4 +69,5 @@ This procedure is a setup task for an Eclipse-based software product. It is comm
 I created the first version of this documentation using the Madcap Flare XML toolchain. I prepared the procedure as part of a Getting Started guide, and it was reviewed by a senior consultant for the content and by my technical writer teammate for the writing quality.  
 
 ## Live documentation
-https://help-arcad-repository.arcadsoftware.com/Topics/Setup/Declaring-Applications.htm
+
+Click the link to see the [live documentation](https://help-arcad-repository.arcadsoftware.com/Topics/Setup/Declaring-Applications.htm)
