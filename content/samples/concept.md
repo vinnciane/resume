@@ -69,4 +69,4 @@ This topic aims to provide the user with an overview of the software, its functi
 
 ## Live documentation
 
-Click the link to see the [live documentation](https://help-drops-wap.arcadsoftware.com/Topics/About/MainConcepts.htm)
+Click the link to see the [live documentation](https://help-drops-wap.arcadsoftware.com/Topics/About/MainConcepts.htm).

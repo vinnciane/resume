@@ -70,4 +70,4 @@ I created the first version of this documentation using the Madcap Flare XML too
 
 ## Live documentation
 
-Click the link to see the [live documentation](https://help-arcad-repository.arcadsoftware.com/Topics/Setup/Declaring-Applications.htm)
+Click the link to see the [live documentation](https://help-arcad-repository.arcadsoftware.com/Topics/Setup/Declaring-Applications.htm).
