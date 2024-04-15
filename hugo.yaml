@@ -57,7 +57,7 @@ params:
     logo:
       path: images/user-light.svg
       dark: images/user-dark.svg
-      link: resume/
+      link: https://vinnciane.github.io/resume/
       width: 50
       height: 50
 
