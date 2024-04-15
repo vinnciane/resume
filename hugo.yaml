@@ -57,7 +57,7 @@ params:
     logo:
       path: images/user-light.svg
       dark: images/user-dark.svg
-      link: /
+      link: resume/
       width: 50
       height: 50
 
