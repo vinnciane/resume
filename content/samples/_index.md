@@ -7,13 +7,11 @@ weight: 100
 
 Welcome to this collection of technical writing samples.
 
-In this compilation, you will find a variety of technical documents spanning different industries and subjects, 
+In this compilation, you will find a variety of technical documents spanning different industries and subjects. 
 
 Several types of topics created for the software industry: 
-a procedure
-a concept
-a troubleshooting article
-
-
-a CLI documentation, for a sample of writing for a product without a graphical UI. 
+* a procedure,
+* a concept,
+* a troubleshooting article,
+* a CLI documentation, for a sample of writing for a product without a graphical UI. 
 

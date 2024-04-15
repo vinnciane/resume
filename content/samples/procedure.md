@@ -28,7 +28,7 @@ ARCAD lists library
 ARCAD library prefix  
 : Define the prefix for all the libraries when the length of the application ID is more than four characters.  
     Set the prefix of the name given to the libraries linked to the application. The library is needed for the execution and compilation of all components of the application. The available options are the following:  
-        ***DFT**: the library prefix name contains the application code, the environment code and the formatted version.
+        ***DFT**: the library prefix name contains the application code, the environment code and the formatted version.  
         **Name**: a custom library prefix name.
 
 Initial Version #  

@@ -17,7 +17,7 @@ Proficient in content management, including multilingual content and **localizat
 ## Explore
 
 {{< cards >}}
-  {{< card link="resume" title="My Resume" icon="user-circle" subtitle="My resume.">}}
-  {{< card link="samples" title="Writing samples" icon="bookmark" subtitle="writing samples.">}}
+  {{< card link="resume" title="My Resume" icon="user-circle">}}
+  {{< card link="samples" title="Writing samples" icon="bookmark">}}
 {{< /cards >}}
 

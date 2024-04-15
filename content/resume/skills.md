@@ -26,5 +26,5 @@ Madcap FLare, Lingo
 Empathy, communication, interpersonal skills, efficiency, teamwork
 
 ### Languages
-French – Native
+French – Native  
 English - Advanced
