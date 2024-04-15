@@ -22,7 +22,7 @@ toc: false
 **TECHNICAL WRITER** — {{< icon "calendar" >}} May, 2017 - Jan, 2018  
  
 *Mechanical engineering / Special machines*  
-* Developed, translated and managed technical documentation for special machinery (instructions and maintenance manuals, illustrations, datasheets and training).  
+* Developed, translated and managed technical documentation for special machinery (instructions and maintenance manuals).  
 * Produced technical illustrations for spare parts catalogs.
 ----------
 
@@ -43,7 +43,7 @@ toc: false
 * Created video tutorials and implemented E-Learning tools and methodology.  
 ----------
 
-###### {{< icon "location-marker" >}} AKROS HENSHEL - Chambery, France
+###### {{< icon "location-marker" >}} AKROS HENSHEL - Chambéry, France
 
 **TECHNICAL WRITER (internship)** - {{< icon "calendar" >}} Mar, 2011 - Jun, 2011
 

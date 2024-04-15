@@ -41,11 +41,11 @@ The available options are the following:
  - Name: a custom ASP group name.  
 By default, the ASP group parameter is set to *SYSBAS.  
 
-Click Next > to continue.  
+Click **Next >** to continue.  
 
 **Step 3**   Define the IFS Directories to link to the new application. Click Add to select the directory.  
 
-Click Next > to continue.  
+Click **Next >** to continue.  
 
 **Step 4**   Select which task you wish to execute after declaring the application.
 
@@ -55,7 +55,7 @@ Create a Development Environment
 Load Repository  
 : Tick this checkbox to automatically load the ARCAD Repository. This option executes the third phase in the process of the declaration of an application, corresponding to the DECLARE3 macro-command.  
 
-Click Next > to continue.  
+Click **Next >** to continue.  
 
 **Step 5**   The wizard displays a summary of the command that the declared application action is going to execute. You can check the parameters entered and make any changes necessary.
 Click **Prompt command** to test the parameters set and check that they are correct.  

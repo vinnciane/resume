@@ -6,7 +6,7 @@ weight: 400
 toc: false
 ---
 
-### Technical Skills
+### Technical skills
 
 Doc-as-code/Markdown  
 XML/DITA  
@@ -20,10 +20,11 @@ Project management
 Git, Github, GitLab  
 Atlassian Jira, Confluence  
 Madcap FLare, Lingo  
+Visual Studio Code  
 
-### Soft Skills
+### Soft skills
 
-Empathy, communication, interpersonal skills, efficiency, teamwork
+Empathy, communication, pragmatism, efficiency, teamwork
 
 ### Languages
 French – Native  
