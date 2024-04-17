@@ -13,5 +13,5 @@ Several types of topics created for the software industry:
 * a procedure,
 * a concept,
 * a troubleshooting article,
-* a CLI documentation, for a sample of writing for a product without a graphical UI. 
+* a CLI documentation, (a writing sample for a product without a graphical UI). 
 
