@@ -14,8 +14,9 @@ Experienced technical writer, managing technical content and publishing technolo
 
 {{< cards >}}
   {{< card link="education" title="Education" icon="academic-cap" subtitle="About my academical course.">}}
-  {{< card link="experience" title="Experience" icon="briefcase" subtitle="About my professionnal experience.">}}
+  {{< card link="experience" title="Experience" icon="briefcase" subtitle="About my professional experience.">}}
   {{< card link="skills" title="Skills" icon="beaker" subtitle="About my skills and competencies." >}}
+  {{< card link="hobbies" title="Hobbies" icon="color-swatch" subtitle="About me, on a more personal level." >}}
 {{< /cards >}}
 
 
