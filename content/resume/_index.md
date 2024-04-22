@@ -6,10 +6,10 @@ weight: 100
 {{< icon "location-marker" >}} Annecy, France
 
 Experienced technical writer, managing technical content and publishing technologies.  
-* Project management, database management, documentation software  
+* Project management, Agile methodologies  
 * Technical writing, information architecture, communication  
-* Technical illustrations, illustration software  
-* Multilingual documentation management, translation  
+* Technical illustrations and graphics  
+* Multilingual documentation management, localization  
 
 
 {{< cards >}}
