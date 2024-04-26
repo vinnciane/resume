@@ -12,7 +12,7 @@ This repository serves as a digital resume showcasing my skills, projects, and c
 **Education**: Details on my academic qualifications and certifications.  
 **Work Experience**: Highlights of my professional experience and roles held.   
 **Skills**: Overview of my technical skills and proficiencies.  
-**Samples**: Showcase of my notable projects, including descriptions and links.  <!-- **Contributions**: Insights into my contributions to open-source projects and collaborations.   -->
+**Samples**: Showcase of my notable projects, including descriptions and links.  <!-- **Contributions**: Insights into my contributions to open-source projects and collaborations.   -->  
 **Contact**: How to get in touch with me for inquiries, collaboration opportunities, or just to say hello!  
 
 ## How to Use
