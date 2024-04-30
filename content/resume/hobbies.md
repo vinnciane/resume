@@ -7,3 +7,5 @@ toc: false
 ---
 
 Coming soon...
+
+![](painting.jpg)
