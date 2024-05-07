@@ -8,10 +8,11 @@ toc: false
 
 ### Technical skills
 
-Doc-as-code/Markdown  
+Doc-as-code/Markdown/AsciiDoc/reStructuredText  
 XML/DITA  
 HTML/CSS  
 Single Sourcing  
+Topic-based authoring
 Content strategy  
 Agile methodology  
 Project management  
@@ -21,10 +22,11 @@ Git, Github, GitLab
 Atlassian Jira, Confluence  
 Madcap FLare, Lingo  
 Visual Studio Code  
+Vale linter
 
 ### Soft skills
 
-Empathy, communication, pragmatism, efficiency, teamwork
+Empathy, communication, pragmatism, efficiency, teamwork, problem-solving
 
 ### Languages
 French – Native  
