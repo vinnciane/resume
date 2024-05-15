@@ -13,6 +13,7 @@ XML/DITA
 HTML/CSS  
 Single Sourcing  
 Topic-based authoring
+Diataxis approach
 Content strategy  
 Agile methodology  
 Project management  
