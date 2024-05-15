@@ -26,8 +26,7 @@ The CLI launches processes from the Anonymizer Server using the login of a defin
 
 To call any action using the CLI, the following syntax is used: `anonymizer` *\<command\> \<parameters\>*.
 
-Support of the commands from the previous versions of Anonymizer CLI is maintained. Refer to the command **alias** to know the previous name of a command.
-If you were using the previous version of the Anonymizer CLI, the commands 
+Support of the commands from the previous versions of Anonymizer CLI is maintained. Refer to the command **alias** to know the previous name of a command.  
 
 ### Common parameters
 
@@ -49,7 +48,7 @@ The following parameters are common to all CLI commands.
 : Required if the password is Base64 encrypted.
 
 `-L`, `--log-file`  
-: The path to the file where the logs will be written.
+: The path to the file where the logs are written.
 
 `-V`, `--verbose`  
 : Enable debug and trace log levels.
@@ -197,6 +196,10 @@ Usage: `anonymizer productionStatus [-CHV] -P[=<password>] [-P[=<password>]]...[
 : The name of the execution session to get the status.
 
 [...]
+
+## About this sample
+
+Previoulsy, the CLI had been considered self-explanatory thanks to the The CLI had been concidered self explanatory thanks to the `--help` command. However, after reviewing the integrated help of the CLI, the developers and I agreed to create an online version of the help with more detailed descriptions of the critical commands and options, along with the update the integrated help.
 
 ## live documentation
 

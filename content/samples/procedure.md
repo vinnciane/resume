@@ -65,8 +65,9 @@ Click **Finish**.
 **Result**   The command is executed and the application is successfully declared.
 
 ## About this sample
+
 This procedure is a setup task for an Eclipse-based software product. It is common for these types of products to have fairly complex wizards to perform a task. To focus on the user experience when working in such wizards, I used steps to stick to the pages of the wizard and keep the user 'in situ' with the user interface. Within these steps, I used definition lists to break down the different concepts and actions on each page.  
-I created the first version of this documentation using the Madcap Flare XML toolchain. I prepared the procedure as part of a Getting Started guide, and it was reviewed by a senior consultant for the content and by my technical writer teammate for the writing quality.  
+I prepared the procedure as part of a Getting Started guide, and it was reviewed by a senior consultant for the content and by my technical writer teammate for the writing quality.  
 
 ## Live documentation
 

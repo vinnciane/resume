@@ -19,6 +19,7 @@ Agile methodology
 Project management  
 
 ### Tools and software
+
 Git, Github, GitLab  
 Atlassian Jira, Confluence  
 Madcap FLare, Lingo  
@@ -31,5 +32,5 @@ Empathy, communication, pragmatism, efficiency, teamwork, problem-solving
 
 ### Languages
 French – Native  
-English - Advanced
+English - Advanced  
 Learning Python
