@@ -11,15 +11,19 @@ Experienced technical writer, managing technical content and publishing technolo
 * Technical illustrations and graphics  
 * Multilingual documentation management, localization  
 
+&nbsp;
+&nbsp;
+
 
 {{< cards >}}
-  {{< card link="education" title="Education" icon="academic-cap" subtitle="About my academical course.">}}
   {{< card link="experience" title="Experience" icon="briefcase" subtitle="About my professional experience.">}}
+  {{< card link="education" title="Education" icon="academic-cap" subtitle="About my academical course.">}}
   {{< card link="skills" title="Skills" icon="beaker" subtitle="About my skills and competencies." >}}
   {{< card link="hobbies" title="Hobbies" icon="color-swatch" subtitle="About me, on a more personal level." >}}
 {{< /cards >}}
 
-
+&nbsp;
+&nbsp;
 
 Prior to transitioning into the field of technical writing, my career began in languages, in teaching and translation roles. I worked as a tutor in French as a foreign language at the University of Aberdeen, followed by a position as a French teacher in professional settings.
 
