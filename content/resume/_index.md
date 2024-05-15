@@ -12,7 +12,6 @@ Experienced technical writer, managing technical content and publishing technolo
 * Multilingual documentation management, localization  
 
 &nbsp;
-&nbsp;
 
 
 {{< cards >}}
@@ -22,7 +21,6 @@ Experienced technical writer, managing technical content and publishing technolo
   {{< card link="hobbies" title="Hobbies" icon="color-swatch" subtitle="About me, on a more personal level." >}}
 {{< /cards >}}
 
-&nbsp;
 &nbsp;
 
 Prior to transitioning into the field of technical writing, my career began in languages, in teaching and translation roles. I worked as a tutor in French as a foreign language at the University of Aberdeen, followed by a position as a French teacher in professional settings.

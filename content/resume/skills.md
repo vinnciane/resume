@@ -17,6 +17,7 @@ Diataxis approach
 Content strategy  
 Agile methodology  
 Project management  
+Technical translation
 
 ### Tools and software
 
@@ -25,6 +26,7 @@ Atlassian Jira, Confluence
 Madcap FLare, Lingo  
 Visual Studio Code  
 Vale linter
+Illustrator/Photoshop
 
 ### Soft skills
 
