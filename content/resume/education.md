@@ -5,6 +5,8 @@ type: docs
 weight: 300
 ---
 
+## Education
+
 
 *Sept, 2011 – Limoges, France*  
 **Professional Degree in Technical writing** — I<sup>st</sup>  
@@ -17,4 +19,12 @@ Université Savoie Mont Blanc, France
 
 *Sept, 2003 – Chambéry, France*  
 **BA in English Studies** — II-1   
-Université Savoie Mont Blanc, France; University of Aberdeen, UK
+Université Savoie Mont Blanc, France; University of Aberdeen, UK  
+
+&nbsp;
+
+## Online courses & MOOCs
+
+Introduction to Python - Le Wagon - ongoing  
+
+
