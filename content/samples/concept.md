@@ -47,7 +47,7 @@ Files under \[PRODUCT\] pass through two stages: replication and then synchroniz
 
 * Edit and validate the list of files to be managed with \[PRODUCT\] (*\[link\]* Edit the list of files (LSTWAP)) when the macro-command displays this list.
 
-* Ensure the process of \[PRODUCT\] starts (*\[link\]* Montoring DWBASE and DWSTRJRNE​ jobs launched to batch).
+* Ensure the process of \[PRODUCT\] starts (*\[link\]* Monitoring DWBASE and DWSTRJRNE​ jobs launched to batch).
 
 
 ***Monitor progress with the \[PRODUCT\] Web Studio***  
@@ -65,7 +65,7 @@ Files under \[PRODUCT\] pass through two stages: replication and then synchroniz
 
 ## About this sample  
 
-This main concepts topic aims to provide the user with an overview of the solution that involves  two softwares on different platforms. It is designed to help the end-user understand their respective functionalities, and give a tour of the workflow/user tasks involved. It also includes links to relevant parts of the documentation.  
+This main concepts topic aims to provide the user with an overview of the solution that involves two software applications on different platforms. It is designed to help the end-user understand their respective functionalities, and give a tour of the workflow/user tasks involved. It also includes links to relevant parts of the documentation.  
 I wrote the topic based on notes shared with me by the lead engineer. She then reviewed the topic, and we made adjustments accordingly. After that, my technical writer teammate reviewed the writing quality. 
 
 
