@@ -32,3 +32,4 @@ Empathy, communication, pragmatism, efficiency, teamwork, problem-solving
 ### Languages
 French – Native  
 English - Advanced
+Learning Python
