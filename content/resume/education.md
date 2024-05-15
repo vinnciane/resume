@@ -5,9 +5,6 @@ type: docs
 weight: 300
 ---
 
-## Education
-
-
 *Sept, 2011 – Limoges, France*  
 **Professional Degree in Technical writing** — I<sup>st</sup>  
 Université de Limoges, France  
