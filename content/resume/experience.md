@@ -10,7 +10,7 @@ toc: false
 
 ###### {{< icon "location-marker" >}} ARCAD Software – Annecy, France
 **LEAD TECHNICAL WRITER** — {{< icon "calendar" >}} Feb, 2018 - Present  
-*Software publisher*  
+*Software publisher and SaaS*  
 * Led team of writers in creating and maintaining technical documentation for software products.
 * Collaborated with international technical and consulting teams in an agile environment.
 * Implemented and maintained documentation tools.
