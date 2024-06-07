@@ -9,7 +9,7 @@ toc: false
 ### Technical skills
 
 Doc-as-code/Markdown/AsciiDoc/reStructuredText  
-XML/DITA  
+XML/DITA/DocBook  
 HTML/CSS  
 Single Sourcing  
 Topic-based authoring  
