@@ -57,12 +57,12 @@ jobs:
         run: |
           hugo \
             --minify \
-            --themesDir=../.. --source=exampleSite \
+#            --themesDir=../.. --source=exampleSite \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./exampleSite/public
+          path: ./public
 
   # Deployment job
   deploy:
