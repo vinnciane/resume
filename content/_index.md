@@ -3,7 +3,7 @@ title: Vinciane Duperthuy
 toc: false
 ---
 
-![](vduperthuy.jpg =300x300)
+![](vduperthuy.jpg)
 
 
 
