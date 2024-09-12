@@ -36,7 +36,7 @@ toc: false
 * Created video tutorials and implemented E-Learning tools and methodology.  
 ----------
 
-###### {{< icon "location-marker" >}} AKROS HENSHEL - Chambéry, France  
+###### {{< icon "location-marker" >}} AKROS HENSCHEL - Chambéry, France  
 **TECHNICAL WRITER (internship)** - {{< icon "calendar" >}} Mar, 2011 - Jun, 2011  
 *Mechanical engineering / Special machines*  
 * Transferred legacy documentation into a XML/DITA framework and set up of a modular publishing environment.
