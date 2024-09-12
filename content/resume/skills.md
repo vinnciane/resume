@@ -50,5 +50,5 @@ Single-sourcing, Topic-based authoring, Diátaxis
 Empathy, communication, pragmatism, efficiency, teamwork, problem-solving
 
 ### Languages
-French - native
-English - bilingual (C3)
+French - native  
+English - bilingual (C3)  

@@ -13,7 +13,7 @@ toc: false
 *Software publisher and SaaS*  
 * Led team of writers in creating and maintaining technical documentation for software products.
 * Collaborated with international technical and consulting teams in an agile environment.
-* Implemented and maintained documentation tools.
+* Implemented and maintained documentation tools and publication pipelines.
 ----------
 
 ###### {{< icon "location-marker" >}} SANDVIK Mining and Construction – Lyon, France

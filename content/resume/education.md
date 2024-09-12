@@ -22,6 +22,8 @@ Université Savoie Mont Blanc, France; University of Aberdeen, UK
 
 ## Online courses & MOOCs
 
-Introduction to Python - Le Wagon - ongoing  
 
+*Sept, 2024 Ongoing - Online*   
+**Learn to code with Python**  
+France Université Numérique, Université Libre de Bruxelles (ULB)  
 
