@@ -23,7 +23,7 @@ Université Savoie Mont Blanc, France; University of Aberdeen, UK
 ## Online courses & MOOCs
 
 
-*Sept, 2024 Ongoing - Online*   
+*Sept, 2024 (Ongoing) - Online*   
 **Learn to code with Python**  
 France Université Numérique, Université Libre de Bruxelles (ULB)  
 
