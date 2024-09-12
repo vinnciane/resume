@@ -8,19 +8,19 @@ toc: false
 
 ### What I do
 
-#### Technical writing
+#### Technical writing  
 
-Software documentation
-API documentation
-Knowledge bases, wikis
-Training material
+Software documentation  
+API documentation  
+Knowledge bases, wikis  
+Training material  
 
 
-#### Content management
+#### Content management  
 
-Content strategy
-Legacy content migration
-Localization
+Content strategy  
+Legacy content migration  
+Localization  
 
 
 ### What I use

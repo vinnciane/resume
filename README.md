@@ -4,7 +4,7 @@ Welcome to my [GitHub Resume](https://vinnciane.github.io/resume/) repository!
 
 ## Overview
 
-This repository serves as a digital resume showcasing my skills, projects, and contributions within the realm of software development. Here you'll find a comprehensive overview of my professional journey, including details on my education, work experience, projects, and areas of expertise.
+This repository serves as a digital resume showcasing my skills, projects, and contributions within the realm of software documentation. Here you'll find a comprehensive overview of my professional journey, including details on my education, work experience, projects, and areas of expertise.
 
 ## Contents
 
