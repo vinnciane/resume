@@ -30,7 +30,7 @@ SSG: Hugo, Docsify, Sphinx, Antora
 Authoring: Visual Studio Code  
 Linter: Vale  
 
-XML, DITA, Docbook  
+**Structured authoring**: XML, DITA, Docbook  
 
 Single-sourcing, Topic-based authoring, Diátaxis  
 
@@ -51,4 +51,4 @@ Empathy, communication, pragmatism, efficiency, teamwork, problem-solving
 
 ### Languages
 French - native  
-English - bilingual (C3)  
+English - bilingual  
