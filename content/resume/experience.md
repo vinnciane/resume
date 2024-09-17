@@ -33,7 +33,7 @@ toc: false
 ###### {{< icon "location-marker" >}} CILASOFT - Metz-Tessy, FR  
 **TECHNICAL WRITER (internship)** - {{< icon "calendar" >}} Jul, 2011 - Aug, 2011  
 *Software security*  
-* Created video tutorials and implemented E-Learning tools and methodology.  
+* Created video tutorials and implemented e-learning tools and methodology.  
 ----------
 
 ###### {{< icon "location-marker" >}} AKROS HENSCHEL - Chambéry, France  

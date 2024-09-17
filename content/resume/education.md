@@ -6,7 +6,7 @@ weight: 300
 ---
 
 *Sept, 2011 – Limoges, France*  
-**Professional Degree in Technical writing** — I<sup>st</sup>  
+**Professional Diploma in Technical writing** — I<sup>st</sup>  
 Université de Limoges, France  
 
  
