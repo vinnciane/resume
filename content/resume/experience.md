@@ -6,10 +6,16 @@ weight: 200
 toc: false
 ---
 
-
+###### {{< icon "location-marker" >}} NEXPUBLICA – Clichy, France
+**LEAD TECHNICAL WRITER, DOCUMENTATION MANAGER** — {{< icon "calendar" >}} Nov, 2024 - Present  
+*Software publisher and SaaS*  
+* Led technical documentation projects for software products.
+* Collaborated with technical and consulting teams in an agile environment.
+* Implemented documentation tools and publication pipelines, migrated legacy documentation.
+----------
 
 ###### {{< icon "location-marker" >}} ARCAD Software – Annecy, France
-**LEAD TECHNICAL WRITER** — {{< icon "calendar" >}} Feb, 2018 - Present  
+**LEAD TECHNICAL WRITER** — {{< icon "calendar" >}} Feb, 2018 - May, 2024  
 *Software publisher and SaaS*  
 * Led team of writers in creating and maintaining technical documentation for software products.
 * Collaborated with international technical and consulting teams in an agile environment.
