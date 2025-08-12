@@ -8,7 +8,7 @@ toc: false
 
 
 Motivated **Senior Technical Writer** located in Annecy, France.
-12+ years experience in technical communication, including 6+ years for the **software industry** in an agile environment.  
+13+ years experience in technical communication, including 7+ years for the **software industry** in an agile environment.  
 Skilled communicator and **team player**.  
 Strong competencies in **content architecture**, migration and tools implementation.  
 Proficient in content management, including multilingual content and **localization**.  
